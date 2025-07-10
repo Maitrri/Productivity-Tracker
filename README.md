@@ -160,8 +160,8 @@ Want to improve this project?
 
 ## 👤 Author
 
-**Krisha Goti**  
+**Maitrri Jayant Chandra**  
 M.S. Applied Data Science, USC  
-📧 [goti@usc.edu](mailto:goti@usc.edu)  
-🌐 [linkedin.com/in/krishagoti](https://linkedin.com/in/krishagoti)
+📧 [maitrric@usc.edu](mailto:maitrric@usc.edu)  
+🌐 [linkedin.com/in/maitrrichandra](https://linkedin.com/in/maitrrichandra)
 
